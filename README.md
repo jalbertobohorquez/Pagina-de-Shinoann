@@ -1,2 +1,2 @@
-# P-gina-de-Shinoann
+# Página-de-Shinoann
 Prácticas para el aprendizaje de Programación Web
